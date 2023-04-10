@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @reichenbach2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Bem vindo ao meu perfil 📍
 
-<!---
-reichenbach2006/reichenbach2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Ana Julia Reichenbach
+
+-Estou estudando na Alura 
+
+-Estou desenvolvendo na linguagem lavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Vocẽ entra em contato comigo 📫
+
+ana.reichenbach.santos@escola.pr.gov.br
